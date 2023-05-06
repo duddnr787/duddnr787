@@ -19,7 +19,7 @@
 <div display="flex">
  <img alt="Java" src ="https://img.shields.io/badge/Java-6DB33F.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
- <img alt="NodeJS" src ="https://img.shields.io/badge/NodeJS-339933.svg?&style=for-the-badge&logo=NodeJS&logoColor=white"/>
+ <img alt="NodeJs" src ="https://img.shields.io/badge/NodeJs-339933.svg?&style=for-the-badge&logo=NodeJs&logoColor=white"/>
  <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
  <img alt="MariaDB" src ="https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white"/>
 </div>
