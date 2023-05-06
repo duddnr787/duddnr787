@@ -3,7 +3,7 @@
 
 ## About me 🐭
   * ✏ I’m currently learning web development (React, Spring etc...)
-  * 🏫 My major is nformation & Communications Technology !
+  * 🏫 My major is information & Communications Technology !
   * 💙 I love... Futsal, Travel, Dogs and Programming !
 
 ## Tech Stack 🐰
