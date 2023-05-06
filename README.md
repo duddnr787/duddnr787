@@ -29,7 +29,7 @@
 
 ### Other
 <div display="flex">
- <img alt="VScode" src ="https://img.shields.io/badge/VScode-2496ED.svg?&style=for-the-badge&logo=VScode&logoColor=white"/> 
+ <img alt="VSCode" src ="https://img.shields.io/badge/VSCode-2496ED.svg?&style=for-the-badge&logo=VSCode&logoColor=white"/> 
  <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
 </div>
 
