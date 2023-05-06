@@ -33,6 +33,7 @@
 
 ## Communication & Memo 🐯
 <div display="flex">
- <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> 
+ <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+ <img alt="netlify" src ="https://img.shields.io/badge/netlify-#00C7B7.svg?&style=for-the-badge&logo=netlify&logoColor=white"/>
  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 </div>
