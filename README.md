@@ -3,7 +3,8 @@
 
 ## About me 🐭
   * ✏ I’m currently learning web development (React, Spirng etc...)
-  * 🏫 My major is Computer Information and Communication Engineering !
+  * 🏫 My major is nformation & Communications Technology !
+  * ⚽️ My hobby is futsal !
 
 ## Tech Stack 🐰
 ### Front-end
