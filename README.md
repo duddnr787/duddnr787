@@ -4,7 +4,7 @@
 ## About me 🐭
   * ✏ I’m currently learning web development (React, Spirng etc...)
   * 🏫 My major is nformation & Communications Technology !
-  * ⚽️ My hobby is futsal !
+  * 💙 I love... futsal, travel, dogs and Programming !
 
 ## Tech Stack 🐰
 ### Front-end
