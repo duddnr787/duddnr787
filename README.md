@@ -36,6 +36,7 @@
 <div display="flex">
  <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
  <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
+ <img alt="Slack" src ="https://img.shields.io/badge/Slack-000000.svg?&style=for-the-badge&logo=Slack&logoColor=white"/>
 </div>
 
 ### in the works ⛏️
