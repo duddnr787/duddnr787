@@ -41,4 +41,5 @@
 
 ### in the works ⛏️
 https://wooksportfolio.netlify.app
+https://velog.io/@duddnr787
  
